@@ -48,3 +48,4 @@ if __name__ == "__main__":
     print("\n Final Recommendations:")
     print(recommended_movies)
     
+#salary per month around 4000-6000$ or aournd 40$ per Hour 
